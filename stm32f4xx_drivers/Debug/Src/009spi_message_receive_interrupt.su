@@ -1,0 +1,7 @@
+../Src/009spi_message_receive_interrupt.c:51:6:SPI_GPIOs_Init	24	static
+../Src/009spi_message_receive_interrupt.c:78:6:SPI2_Init	8	static
+../Src/009spi_message_receive_interrupt.c:94:6:GPIO_interrupt_pin_Init	32	static
+../Src/009spi_message_receive_interrupt.c:117:5:main	16	static
+../Src/009spi_message_receive_interrupt.c:165:6:SPI2_IRQHandler	8	static
+../Src/009spi_message_receive_interrupt.c:170:6:EXTI9_5_IRQHandler	8	static
+../Src/009spi_message_receive_interrupt.c:175:6:SPI_ApplicationEventCallback	16	static
